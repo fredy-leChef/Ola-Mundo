@@ -7,7 +7,7 @@ O repositório foi criado como forma de aprendizagem para a utilização básica
 ## Lista de objetivos da minha jornada de aprendizagem no mundo da programação:
 O intuito desta lista é simular meu progresso de aprendizagem através dos cursos grátis disponíveis do Professor Guanabara, disponíveis em ![Cursos em vídeo](https://www.cursoemvideo.com) e colocar em prática meu aprendizado.
 
-- [ ] Curso Git e GitHub
+- [x] Curso Git e GitHub
 - [ ] Curso Algoritmo
 - [ ] Curso Python
 - [ ] Curso MySQL
