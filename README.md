@@ -8,8 +8,10 @@ O repositório foi criado como forma de aprendizagem para a utilização básica
 O intuito desta lista é simular meu progresso de aprendizagem através dos cursos grátis disponíveis do Professor Guanabara, disponíveis em ![Cursos em vídeo](https://www.cursoemvideo.com) e colocar em prática meu aprendizado.
 
 - [x] Curso Git e GitHub
-- [ ] Curso Algoritmo
 - [ ] Curso Python
+   - [ ] Mundo 1 - Em andamento
+   - [ ] Mundo 2
+   - [ ] Mundo 3
 - [ ] Curso MySQL
 - [ ] Curso Java Básico
 - [ ] Curso HTML5
